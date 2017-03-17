@@ -1,4 +1,4 @@
-- [SeisMan博客](https://seisman.info)
-- [HinetScript](https://seisman.github.io/HinetScripts)
+- [SeisMan博客](http://seisman.info)
+- [HinetScript](https://seisman.github.io/HinetPy)
 - [跟我一起写 Makefile](https://seisman.github.io/how-to-write-makefile/)
 - [SAC参考手册](https://github.com/seisman/SAC_Docs_zh)
